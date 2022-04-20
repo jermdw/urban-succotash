@@ -40,11 +40,14 @@ You are now your own salon so you must manage things such as client formulas, ap
 
 * [DaySmart Salon](https://www.daysmartsalon.com) - Popular stylist and salon management software. Basic plans start at $29/month.
 * [Saloncentric](https://www.saloncentric.com/account-creation) - Create an account at SalonCentric. You will need this to order supplies.
+* [GA Professional Licensing 🍑](https://verify.sos.ga.gov/verification/Search.aspx) - You will need a copy of your cosmetology license for various steps throughout this process, including the license number and expiration date. You can find it here.
 
 #### Social Media & Online Presence
 
 It goes without saying you need to have a social media and online presence. You have to build your brand! 😎 Many of these are optional but can help take your stylist brand to the next level.
 
 * [Register for a .hair domain](https://go.hair) - Get a unique .hair domain to host your website.
-* [Create a Logo on Fiverr](https://www.fiverr.com) - Create a logo to make your brand stand out. 
+* [Create a Logo on Fiverr](https://www.fiverr.com) - Create a logo to make your brand stand out.
+* [Create an Instragram Page](https://instagram.com) - Create an IG for your business.
+* [Create a FaceBook Page](https://facebook.com) - Yes, we know Facebook is mostly for the older crowd but it's still important to have an online presence there as well. I'm sure some of your clients are _old_.
 
