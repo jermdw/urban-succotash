@@ -15,7 +15,7 @@ For example, you could choose a sole proprietorship, LLC, partnership and so on.
 * [Legal Entity Guide](https://sos.ga.gov/sites/default/files/2022-01/legal_entity.pdf) - Which legal entity is right for your business?
 
 
-#### **Register** your business with the Georgia Secretary of State. 
+#### Register your business with the Georgia Secretary of State
 
 This costs $100 and takes 7-10 business days to process. Must be renewed annually.
 
@@ -34,9 +34,17 @@ There are a wide range of business checking accounts available. Look for one wit
 
 * [10 Best Business Checking Accounts](https://www.nerdwallet.com/best/small-business/business-checking-accounts) - NerdWallet article on the 10 "best" business checking accounts.
 
-### Salon Management
+#### Salon Management
 
 You are now your own salon so you must manage things such as client formulas, appointments, payments. Salon management software such as DaySmart Salon is recommended to make salon management tasks such as these seamless.
 
 * [DaySmart Salon](https://www.daysmartsalon.com) - Popular stylist and salon management software. Basic plans start at $29/month.
+* [Saloncentric](https://www.saloncentric.com/account-creation) - Create an account at SalonCentric. You will need this to order supplies.
+
+#### Social Media & Online Presence
+
+It goes without saying you need to have a social media and online presence. You have to build your brand! 😎 Many of these are optional but can help take your stylist brand to the next level.
+
+* [Register for a .hair domain](https://go.hair) - Get a unique .hair domain to host your website.
+* [Create a Logo on Fiverr](https://www.fiverr.com) - Create a logo to make your brand stand out. 
 
