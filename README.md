@@ -19,8 +19,8 @@ For example, you could choose a sole proprietorship, LLC, partnership and so on.
 
 This costs $100 and takes 7-10 business days to process. Must be renewed annually.
 
-* [Georgia Secretary of State 🍑](https://sos.ga.gov/how-to-guide/how-guide-register-domestic-entity) - Register your business with the state here.
-
+* [Georgia Secretary of State 🍑](https://sos.ga.gov/how-to-guide/how-guide-register-domestic-entity) - Information about forming a business in the State of Georgia.
+* [Online Registration 🍑](https://ecorp.sos.ga.gov) - Register your business with the state here.
 
 #### Apply for an Employee Identification Number (EIN)
 
